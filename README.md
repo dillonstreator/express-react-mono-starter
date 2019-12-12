@@ -3,7 +3,7 @@
 ## Getting started
  clone this repo with `git clone https://github.com/DillonStreator/express-react-mono-starter.git`
 
-install dependencies `npm install`
+install dependencies `npm install && cd client && npm install`
 
 ## Avaliable scripts
 
